@@ -1,0 +1,15 @@
+/Users/aea/Desktop/C#/DZ2/bin/Debug/net6.0/DZ2
+/Users/aea/Desktop/C#/DZ2/bin/Debug/net6.0/DZ2.deps.json
+/Users/aea/Desktop/C#/DZ2/bin/Debug/net6.0/DZ2.runtimeconfig.json
+/Users/aea/Desktop/C#/DZ2/bin/Debug/net6.0/DZ2.dll
+/Users/aea/Desktop/C#/DZ2/bin/Debug/net6.0/DZ2.pdb
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.csproj.AssemblyReference.cache
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfoInputs.cache
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.AssemblyInfo.cs
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.csproj.CoreCompileInputs.cache
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.dll
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/refint/DZ2.dll
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.pdb
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/DZ2.genruntimeconfig.cache
+/Users/aea/Desktop/C#/DZ2/obj/Debug/net6.0/ref/DZ2.dll
